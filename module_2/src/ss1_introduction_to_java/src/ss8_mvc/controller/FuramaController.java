@@ -1,4 +1,4 @@
-package ss8_mvc.controller.impl;
+package ss8_mvc.controller;
 
 import ss8_mvc.service.IFuramaService;
 import ss8_mvc.service.impl.FuramaService;
